@@ -1,0 +1,259 @@
+---
+title: "Data Science Community Involvement"
+subtitle: "African Women in Data Science"
+author: Simisani Nokulunga Ndaba 
+format:
+  revealjs:                    
+    footer: "African Women in Data Science"
+    logo: awds2024.jpg
+title-slide-attributes:   
+  data-background-image: awesomeRLadiesBackground.png      
+  data-background-size: cover      
+  data-background-position: "center"  
+---
+
+## Talk Overview
+
+-   Community of Practise
+
+-   What you do in Data Science Communities
+
+-   African & Women Data Science Communities
+
+-   Benefits of Joining Communities
+
+-   Community Involvement Challenges
+
+-   Sustainable Community Formula
+
+## Who am I
+
+::: columns
+::: {.column width="40%"}
+![](work%20photo.jpg)
+:::
+
+::: {.column width="60%"}
+-   ![](twitter.png){.absolute top="95" left="680"}[\@simisani10](https://twitter.com/simisani10)
+
+-   [r-ladiesgaborone2021.quarto.pub](https://r-ladiesgaborone2021.quarto.pub/)
+
+-   TA in the Department of Computer Science at the University of Botswana
+
+-   Business Analyst at the Gauteng Department of Education in Johannesburg, SA
+
+-   Enjoy creating data visualisations
+:::
+:::
+
+## My data viz work
+
+![](day17Screenshot.png){.absolute top="70" left="0" width="450"}
+
+![](Day03gif.gif){.absolute top="350" left="0" width="320" height="350"}
+
+![](2024Day04Waffle30DayChartChallenge.png){.absolute top="50" right="-15" width="500"}
+
+![](child.png){.absolute top="400" right="265" width="450"}
+
+![](challenge09.png){.absolute top="350" right="-50" width="300"}
+
+## 
+
+![](DataVisualizationSocietylogo2019-05-transparent.png){fig-align="center"}
+
+::: aside
+<https://www.datavisualizationsociety.org/>
+:::
+
+## Community of Practice
+
+-   A community of practice (CoP) is a group of people who share a common concern, a set of problems/interest in a topic.
+
+-   They come together to fulfill both individual and group goals.
+
+-   Provide tools and resources to foster a diverse and friendly and inclusive community of data science learners and practitioners.
+
+    ::: aside
+    (Lave and Wenger, 1991) Situated learning: Legitimate peripheral participation. *The Press Syndicate of the University of Cambridge*.
+
+    <https://www.communityofpractice.ca/background/what-is-a-community-of-practice/>
+    :::
+
+## What you do in DS Community
+
+::: columns
+::: {.column width="50%"}
+**Contribution**
+
+-   📖 Facilitate Book Club sessions/cohort
+
+-   🙋🏽 Contribute to open source projects
+
+-   🙏🏾Sponsorship
+:::
+
+::: {.column width="50%"}
+**Learn by Doing**
+
+-   🔧Workshops
+
+-   🎲 Hackathons
+
+-   🧑‍🤝‍🧑 Study Groups
+:::
+:::
+
+## international data sci community
+
+![](tidyTuesday.jpg)
+
+::: aside
+<https://github.com/rfordatascience/tidytuesday>
+:::
+
+## tidyTuesday submission
+
+![](tidytuesdayexample.png){fig-align="center" width="800"}
+
+## **African Data Science Communities**
+
+![](DataCommAfrica.png){.absolute top="80" left="25" width="450"}
+
+![](zindi.png){.absolute top="100" left="650" width="500"}
+
+![](dataScienceNigeria.png){.absolute top="300" left="240" width="450"}
+
+![](Carpentries.jpg){.absolute top="380" left=".-10"}
+
+![](dataScienceAfrica.png){.absolute top="400" left="700"}
+
+## 
+
+![](Map_DSA%20Events-04.png){fig-align="center"}
+
+::: aside
+[https://www.datascienceafrica.org](https://www.datascienceafrica.org/events/)
+:::
+
+## Women Data Science Communities
+
+![](womenInDataAfrica.jpeg){.absolute top="70" left="0" width="350"}
+
+![](rladiesgabs.jpeg){.absolute top="400" left="50" width="350"}
+
+![](rladiesnairobi.jpeg){.absolute top="400" right="-.5" width="300"}
+
+![](sheCodeAfrica.jpeg){.absolute top="200" right="600"}
+
+![](rladiesabuja.jpg){.absolute top="360" right="280" width="400"}
+
+![](wimlds_global_logo_WP_miniature.png){.absolute top="100" right="10" width="600"}
+
+## 
+
+![](rladieschapters.gif){.absolute top="20" left="100" width="900"}
+
+::: aside
+Created by \@deepaliKank on X (formerly twitter) for tidyTuesday
+:::
+
+## Benefits of Joining Communities
+
+::: columns
+::: {.column width="50%"}
+-   🤝 Supportive community for asking questions
+
+-   🧑‍🤝‍🧑 Networking
+
+-   🏫 Learn
+
+-   = Engaged communities solves business problems faster
+:::
+
+::: {.column width="50%"}
+-   👩‍👩‍👧 Culture of collaboration
+
+-   💡Innovation
+
+-   👭🏽Finding people who have similar interests
+
+-   🤗You can be vulnerable - it's ok not to know everything
+:::
+:::
+
+## **Platforms**
+
+![](githubdoc.gif){.absolute top="100" left="0" width="450" height="300"}
+
+![](community-site.jpg){.absolute top="400" right="2" width="500" height="300"}
+
+![](githubwiki.png){.absolute top="30" right="15" width="554"}
+
+![](githubrepo.png){.absolute top="450" left="0" width="550"}
+
+## Community Involvement Challenges
+
+::: columns
+::: {.column width="40%"}
+![](science-girl-working-girl.gif)
+:::
+
+::: {.column width="60%"}
+-   No culture of volunteering
+
+-   No continuation of knowledge sharing
+
+-   Difference in communicating
+
+-   Meetups can be inaccessible
+
+-   In-person meetups are hard to attend
+
+-   School/Work commitments
+:::
+:::
+
+## **Data Science Community Sustainable**
+
+`1  #Python Users`\
+`2`\
+`3  import sustainability as COPMeetup`\
+`4        COPMeetup`\
+`5                 .welcoming()`\
+`6                 .self_care()`\
+`5                 .core_group()`
+
+::: aside
+Ted Laderas, at posit::conf 2023\
+<https://youtu.be/QfcC56gSC9g?si=3uq19NpYQuNcviQb>
+:::
+
+## #R Users
+
+`1  #R Users`\
+`2`\
+`3  library(sustainability)`\
+`4        COPMeetup %>%`\
+`5            welcoming() %>%`\
+`6            self_care() %>%`\
+`7            core_group()`
+
+::: aside
+Ted Laderas, at posit::conf 2023\
+<https://youtu.be/QfcC56gSC9g?si=3uq19NpYQuNcviQb>
+:::
+
+## In The End
+
+-   Communities of Practise help bring novices and experts together though activities.
+
+-   Data Science COPs in Africa have shown to be increasing due to the growing events and chapters.
+
+-   Community involvement can grow your data skills.
+
+-   A sustainable COP means being inclusive, organising team and taking care of yourself.
+
+## 
+
+![](thank-you-thanks.gif){width="900"}
