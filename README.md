@@ -1,4 +1,6 @@
-# AWDS2024
+# African Women in Data Science 2024 
+https://www.linkedin.com/company/african-women-in-data-science/posts/?feedView=all
+
 My talk at the African Women in Data Science 2024 in Community Involvement.
 
 Slides in the description section.
