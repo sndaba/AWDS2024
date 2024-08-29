@@ -1,0 +1,4 @@
+- source: testConf.qmd
+  quarto-pub:
+    - id: b46604b6-2ca1-4710-a028-5c822e836193
+      url: 'https://simi.quarto.pub/awds2024'
